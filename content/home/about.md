@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2016-04-20T00:00:00"
+date = "2017-04-06T00:00:00"
 draft = false
 
 widget = "about"
@@ -12,31 +12,31 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Machine Learning",
+    "Manipulation",
+    "Artificial Intelligence"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Robotics PhD in Interactive Computing"
+  institution = "Georgia Institute of Technology"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MS in Computer Science (Intelligent Robotics)"
+  institution = "University of Southern California"
   year = 2008
+
+[[education.courses]]
+  course = "BE in Systems Science (Systems Science and Applied Informatics)"
+  institution = "Osaka University"
+  year = 2006
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Daehyung Park is a Ph.D. student in the College of Computing and the Institute for Robotics and Intelligent Machines at the Georgia Institute of Technology, working with Dr. Charles C. Kemp in the Healthcare Robotics Laboratory. His research interests include multimodal sensing, machine learning, and mobile manipulation. He is currently researching assistive manipulation and multimodal anomaly detection methods for people with disabilities.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+

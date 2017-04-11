@@ -1,5 +1,5 @@
 baseurl = "https://pidipidi.github.io/"
-title = "Daehyung Park"
+title = "Daehyung's Homepage"
 copyright = "&copy; 2017 Daehyung Park"
 theme = "academic"
 enableEmoji = true
@@ -36,7 +36,7 @@ defaultContentLanguageInSubdir = false
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Mon, Jan 2, 2006"
+  date_format = "Thu, Apr 6, 2017"
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -99,9 +99,10 @@ defaultContentLanguageInSubdir = false
     'Conference proceedings',  # 1
     'Journal',  # 2
     'Work in progress',  # 3
-    'Technical report',  # 4
+    'Workshop, Technical report, Poster',  # 4
     'Book',  # 5
-    'Book chapter'  # 6
+    'Book chapter',  # 6
+    'Patent'  # 7
   ]
 
   # Social/Academic Networking

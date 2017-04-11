@@ -1,6 +1,6 @@
 +++
 title = "Multimodal Anomaly Detection for Assistive Robots"
-image_preview = ""
+image_preview = "publications/auro_2016_ad.jpg"
 url_pdf = ""
 math = false
 highlight = true
@@ -8,19 +8,19 @@ url_video = ""
 url_slides = ""
 url_code = ""
 publication_types = ["2"]
-date = "2017-04-06T02:12:12-04:00"
-authors = ["Daehyung Park, Hokeun Kim, and Charles C. Kemp"]
+date = "2017-04-06"
+authors = ["Daehyung Park", "Hokeun Kim", "Charles C. Kemp"]
 url_project = ""
-selected = false
+selected = true
 abstract = ""
 url_dataset = ""
-publication = "Autonomous Robots"
+publication = "In *Autonomous Robots* (submitted)"
 abstract_short = ""
-publication_short = ""
+publication_short = "In AURO17'"
 
 [header]
-  caption = ""
-  image = ""
+  caption = "Multimodal Anomaly Detection"
+  image = "publications/auro_2016_seq.png"
 
 +++
 

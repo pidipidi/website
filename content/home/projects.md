@@ -26,8 +26,20 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Execution Monitor"
+  tag = ".execution-monitor"
+
+[[filter]]
+  name = "Haptics"
+  tag = ".haptic-manipulation"
+
+[[filter]]
+  name = "Samsung"
+  tag = ".industrial-manipulation"
+
+[[filter]]
+  name = "DMP"
+  tag = ".dynamic-movement-primitives"
 
 [[filter]]
   name = "Other"

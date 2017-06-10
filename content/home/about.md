@@ -38,6 +38,6 @@ weight = 1
 
 # Biography
 
-Daehyung Park is a Ph.D. student in the College of Computing and the [Institute for Robotics and Intelligent Machines](http://www.robotics.gatech.edu/) at the Georgia Institute of Technology, working with Dr. Charles C. Kemp in the [Healthcare Robotics Laboratory](http://healthcare-robotics.com/). He was a robot engineer at the Mechatronics Center of Samsung Electronics Inc. He is currently researching assistive manipulation and multimodal execution monitoring methods for people with disabilities.
+Daehyung Park is a Ph.D. candidate in the College of Computing and the [Institute for Robotics and Intelligent Machines](http://www.robotics.gatech.edu/) at the Georgia Institute of Technology, working with Dr. Charles C. Kemp in the [Healthcare Robotics Laboratory](http://healthcare-robotics.com/). He was a robot engineer at the Mechatronics Center of Samsung Electronics Inc. He is currently researching assistive manipulation and multimodal execution monitoring methods for people with disabilities.
 
 

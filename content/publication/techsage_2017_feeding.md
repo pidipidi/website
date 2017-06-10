@@ -1,7 +1,7 @@
 +++
 title = "Multimodal Execution Monitoring for Robot-Assisted Feeding"
 image_preview = ""
-url_pdf = "pdf/techsage_2016_feeding.pdf"
+url_pdf = "pdf/techsage_2017_feeding.pdf"
 math = false
 highlight = true
 url_video = ""
